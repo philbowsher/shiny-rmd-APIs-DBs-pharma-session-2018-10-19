@@ -91,7 +91,7 @@ library("openfda")
 
 An up-to-date version of RStudio is also recommended.
 
-R 3.4.0 used for examples.
+R 3.4.4 used for examples.
 
 Links/examples reviewed in the following order:
 
