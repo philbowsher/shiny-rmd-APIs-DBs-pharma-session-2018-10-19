@@ -2,7 +2,7 @@
 
 Live Presentation is here:
 
-http://colorado.rstudio.com:3939/content/1581/
+https://colorado.rstudio.com/rsc/content/1581/
 
 Other apps and reports are here:
 
